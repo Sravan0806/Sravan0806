@@ -50,11 +50,6 @@ Outside of tech, I’ve played professional cricket and enjoy staying active—t
   </a>
 </p>
 
-<ul>
-  <li><b><a href="https://github.com/Sravan0806/RAG-Chatbot" target="_blank">RAG Chatbot</a>:</b> Retrieval-Augmented Generation chatbot leveraging the latest in NLP and LLMs.</li>
-  <li><b><a href="https://github.com/Sravan0806/Microblog" target="_blank">Microblog Platform</a>:</b> Lightweight platform for sharing thoughts, built with modern web tech.</li>
-  <li><b><a href="https://github.com/Sravan0806/Speech-and-Emotion-Recognition" target="_blank">Speech & Emotion Recognition</a>:</b> ML-powered app detecting emotions from speech in real time.</li>
-</ul>
 
 ---
 
